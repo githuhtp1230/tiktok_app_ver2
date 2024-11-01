@@ -1,0 +1,3 @@
+int LIMIT_VIDEO = 5;
+
+int PAGE_SIZE_COMMENT = 5;
